@@ -1,6 +1,6 @@
 {
   "name": "politsin/colorbox",
-  "version": "1.1",
+  "version": "1.0",
   "description": "Drupal 8. Plugin in the root libraries folder (/libraries).",
   "type": "drupal-library",
   "main": "colorbox/jquery.colorbox.js",
